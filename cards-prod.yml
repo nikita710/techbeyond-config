@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 cards:
-  message: "Welcome to EazyBank config cards related prodction webhook APIs "
+  message: "Welcome to EazyBank config cards related prodction webhook test APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
